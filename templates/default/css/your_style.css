@@ -1,0 +1,44 @@
+.select2-hidden-accessible {
+    display: none;
+}
+.select2-container {
+    width: 100%;
+}
+
+.select2-container .select2-arrow {
+    background: #fff !important;
+}
+
+.select i {
+    margin-right: 3px !important;
+}
+.bl_changepass {
+	background: #fff;
+}
+.bl_changepass ul {
+	margin:0px;
+	padding: 0px;
+}
+.bl_changepass ul li {
+	padding: 5px;
+}
+nav ul li.active {
+	background: red;
+}
+nav ul li a {
+	font-size: 13px !important;
+}
+.page-footer {
+	height: 30px !important;
+	padding: 5px 13px;
+}
+.img_loading {
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    opacity: 0.5;
+    z-index: 999999999999;
+}

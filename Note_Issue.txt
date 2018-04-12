@@ -1,0 +1,7 @@
+Chú ý:
++ Hình ảnh quan hệ gia đình chưa lưu lại đc (hinh anh duoi dang mang)
++ Option giới tính và tình trạng hôn nhân
++ Khi update phai update lai anh -- okie
++ Tạo các config cấu hình sub_cat/sở thích/.....
+
+
